@@ -2,7 +2,7 @@
 
 An interactive Tableau system that explores 46,853 feature films (1920 to 2024) from the official IMDb datasets: how popularity relates to quality, how cinema changed over a century, which genres and directors stand out, and where films are released around the world.
 
-**Live version:** [Tableau Public](https://public.tableau.com/app/profile/mohamad.shalata/viz/Vis_Project_Story/CinemaAroundtheWorld)
+**Live version:** [Tableau Public](https://public.tableau.com/app/profile/mohamad.shalata/viz/Final_Version_17913062407830/CinemaAroundtheWorld)
 
 ![Story opening](images/01_story_opening.png)
 
